@@ -10,4 +10,4 @@ function enFunktion(x, y) {
 
 console.log(enFunktion(4, 7));
 
-console.log("Häj då! Vi ses imorgon!")
+console.log("Häj då! Vi ses imorgon!");
