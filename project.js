@@ -4,7 +4,8 @@ console.log('häääy');
 console.log('hääääääy på daaj');
 
 function enFunktion(x, y) {
-    u = x + y
+    u = x + y;
+    u+=2;
     return u;
 };
 
